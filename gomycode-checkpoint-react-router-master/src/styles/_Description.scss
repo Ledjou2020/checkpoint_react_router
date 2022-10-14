@@ -1,0 +1,13 @@
+.description{
+    padding-left: 0 !important;
+    
+    .video__annonce{
+        box-shadow: 0 0 5px gray;
+        width: 600px;
+        height: 500px;
+        border-radius: 10px;
+    }
+    .text--description, .video__annonce{
+        margin-top: 6rem;
+    }
+}
